@@ -1,0 +1,4 @@
+# ignorando um aquivo: File.dat
+# ignorando um grupo de arquivos: *.dat
+# ignorando uma pasta:
+lib/
